@@ -1,6 +1,6 @@
 # Hotelling-Downs Political Polarization Simulation
 
-This project implements an Agent-Based Model (ABM) to simulate political competition on a 1G grid. Using Python and the Mesa framework, it extends the classic Hotelling-Downs model to explore how voter tolerance and population distribution influence candidate positioning and political polarization.
+This project implements an Agent-Based Model (ABM) to simulate political competition on a 1D grid. Using Python and the Mesa framework, it extends the classic Hotelling-Downs model to explore how voter tolerance and population distribution influence candidate positioning and political polarization.
 
 ## Project Overview
 
